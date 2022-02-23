@@ -27,7 +27,7 @@ export default function Welcome() {
                      Get your username{" "} 
                      {/* <img src="" alt="" /> */}
                 </Link>
-                <Link></Link>
+    
             </div>
         </div>
     );
